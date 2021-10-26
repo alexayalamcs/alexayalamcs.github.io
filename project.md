@@ -16,7 +16,7 @@ title: Projects
             <p>
             I am the lead student of a group of 6 researching the application of conditional Generative Adversarial Networks to the output of earth system models. I am responsible for the maintenance of the repo, onboarding new students, and prototyping a variety of deep learning architectures.
             </p>
-            Our work was featured in the NeurIPS 2020 "<i>Tackling Climate Change with Machine Learning</i>" workshop and the 3rd NOAA workshop on <i>"Leveraring AI in Environmental Sciences"</i>. 
+            Our work was featured in the NeurIPS 2020 workshop "<i>Tackling Climate Change with Machine Learning</i>" and the 3rd NOAA workshop on <i>"Leveraging AI in Environmental Sciences"</i>. 
         </div>
     </div>
     <div>
@@ -43,7 +43,7 @@ title: Projects
 
 ## Object Detection for Archaeology
 
-I am in a group of 3 applying object detection techniques to aerial LiDAR data over archaelogical zones of interests. My main responsibility is the data pipeline which involves dataset design, data exploration, and processing the raw LiDAR features into usable input for downstream tasks.
+I am in a group of 3 applying object detection techniques to aerial LiDAR data over archaeological zones of interests. My main responsibility is the data pipeline which involves dataset design, data exploration, and processing the raw LiDAR features into usable input for downstream tasks.
 
 <div>
     <b>Key Skills: </b>
